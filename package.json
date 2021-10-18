@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.13",
+    "ts-node": "^10.3.0"
+  },
+  "name": "microsoft-ts-tasks",
+  "description": "Tasks solutions from https://docs.microsoft.com/ru-ru/learn/paths/build-javascript-applications-typescript",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeeeZ/microsoft-ts-tasks.git"
+  },
+  "author": "Vladislav Shell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeeeZ/microsoft-ts-tasks/issues"
+  },
+  "homepage": "https://github.com/FreeeeZ/microsoft-ts-tasks#readme"
+}
